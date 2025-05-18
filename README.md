@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§ion=header&text=Myungbo%20Song&fontSize=90" alt="header" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§ion=header&text=Welcome%20to%20My%20GitHub&fontSize=40" alt="header" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 </p>
 
 <p align="center">
