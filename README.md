@@ -44,6 +44,31 @@
 
 ---
 
+## 💻 프로젝트
+<p align="center">
+ <a href="https://github.com/dvone224/TeamProject" target="_blank">
+    <img src="https://img.shields.io/badge/SmartReciFit-FF6600?style=for-the-badge&logoColor=black" alt="SmartReciFit" />
+    
+  </a>
+  <br/>
+  <span>2025.03.11 ~ 2025.03.31 | 4명</span>
+  </p>
+   
+  
+ 
+  <p align="center">
+  <a href="https://github.com/Heeyeon205/newsion-server" target="_blank">
+    <img src="https://img.shields.io/badge/NEWSION Server-FF6600?style=for-the-badge&logoColor=black" alt="NEWSION" />
+  </a>
+    <a href="https://github.com/Heeyeon205/newsion-client.git" target="_blank">
+    <img src="https://img.shields.io/badge/NEWSION Client-FF6600?style=for-the-badge&logoColor=black" alt="NEWSION" />
+  </a>
+  <br/>
+  <span>2025.04.15 ~ 2025.05.08 | 4명</span>
+</p>
+
+---
+
 ## 📫 연락처
 
 <p align="center">
